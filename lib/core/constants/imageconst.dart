@@ -16,4 +16,5 @@ static const depositIcon  = "assets/credit-card-upload.png";
   static const hand = "assets/hand.png";
   static const coin4 = "assets/coins-04.png";
   static const crypto = "assets/cryptocurrency-02.png";
+  // static const crypto = "assets/cryptocurrency-02.png";
 }
